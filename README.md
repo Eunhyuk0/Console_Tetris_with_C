@@ -1,4 +1,4 @@
-almost abide by the tetris guideline
+almost follows the tetris guideline
 
 This was my school project so there can be bugs :(
 
